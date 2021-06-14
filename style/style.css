@@ -1,0 +1,87 @@
+.frame,.full_2{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/*mt集中*/
+.mt8{margin-top: 8px;}
+.mt20{margin-top: 20px;}
+.mt16{margin-top: 16px;}
+.mt24{margin-top: 24px;}
+.mt32{margin-top: 32px;}
+.mt40{margin-top: 40px;}
+.mt72{margin-top: 72px;}
+
+.lh45{line-height: 45px;}
+
+/*名字與照片*/
+.header p{
+    font-size: 80px;
+    line-height: 94px;
+    padding-bottom: 17px;
+    border-bottom: 1px black solid;
+}
+
+.header img{
+    width: 324px;
+    height: 324px;
+    margin: 48px 0;
+}
+
+/*標題字與小字*/
+.titleWord{
+    font-size: 32px;
+    line-height: 43px;
+    padding-bottom: 8px;
+    border-bottom: 1px black solid;
+}
+
+.smallWord{
+    font-size: 24px;
+    line-height: 28px;
+    color: #A00404;
+    margin-left: 16px;
+}
+
+.full span{
+    color: white;
+}
+
+/*文字內容*/
+.contain_1 p,.contain_2 li,.full li{
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.contain_2,.full_1 ul{
+    padding-left: 24px;
+    border-left: 1px #96A9C4 solid;
+}
+
+.contain_2 p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.contain_2 img{
+    width: 90px;
+    height: 90px;
+}
+
+/*滿版內容*/
+.full{
+            background: #415165;
+            color: white;
+            padding-top: 24px;
+            padding-bottom: 36px;
+            text-align: center;
+}
+
+.full h2{
+    padding-bottom: 8px;
+    border-color: white;
+}
+
+.full_1{    
+    margin: 0 auto;
+    max-width: 996px;
+}
