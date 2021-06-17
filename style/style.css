@@ -15,7 +15,7 @@
 .lh45{line-height: 45px;}
 
 /*照片*/
-img{display: block;}
+.block{display: block;}
 
 /*名字與照片*/
 .header p{
