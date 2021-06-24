@@ -18,7 +18,7 @@
 .block{display: block;}
 
 /*名字與照片*/
-.header p{
+.header h1{
     font-size: 80px;
     line-height: 94px;
     padding-bottom: 17px;
@@ -94,4 +94,13 @@
 }
 .full_2{
     text-align: center;
+}
+
+/*聯絡方式<a>修改*/
+.full_2 a{
+    color: white;
+    text-decoration: none;
+}
+.full_2 a:hover{
+    color: #399;
 }
